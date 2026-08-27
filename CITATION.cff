@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Citation metadata is provisional until the related paper and DOI are confirmed."
+title: "DSMC Machine-Learning Surrogate Experiments"
+type: software
+authors:
+  - family-names: "Roohi"
+    given-names: "Ehsan"
+repository-code: "https://github.com/Ehsan-Roohi/roohi-dsmc-machine-learning"
+license: "MIT"
+date-released: "2026-08-27"

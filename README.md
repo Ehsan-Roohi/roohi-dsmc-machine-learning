@@ -4,17 +4,23 @@ Python candidate scripts for cylinder-flow neural networks and DeepONet experime
 
 ## Release status
 
-Reviewed and approved for public release by Ehsan Roohi on 2026-08-27.
+This repository was reviewed and approved for public release by Ehsan Roohi on 2026-08-27. The original working files remain preserved separately.
 
 ## Contents
 
 - `src/`: 2 selected research-code files.
-- `docs/SOURCE_MANIFEST.csv`: source provenance and SHA-256 hashes.
-- `docs/DATA_IO_REFERENCES.csv`: code locations requiring input/output documentation.
+- `docs/SOURCE_MANIFEST.csv`: exact mapping to the original local files, including SHA-256 hashes.
+- `docs/EXCLUDED_FILES.csv`: duplicate, attributed-to-others, private, malformed, or otherwise withheld files.
+- `docs/DATA_IO_REFERENCES.csv`: locations that read or write data and therefore need input/output documentation.
+- `OWNERSHIP_REVIEW.md`: release provenance and scientific-validation notes.
+
+## Languages
+
+Python
 
 ## License
 
-MIT License. See `LICENSE`.
+Released under the MIT License. See `LICENSE`.
 
 ## Notes
 
